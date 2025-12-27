@@ -13,22 +13,6 @@ _This project highlights those differences in a clear, data-driven way._
 - Visualise affordability - drug cost as % of monthly GDP per capita.  
 - Package analysis and insights in a consulting-style format for portfolio use.  
 
-## Repository Structure
-glp1-market-access-eu/
-├── data/
-│ ├── glp1_eu_market_access.xlsx
-│ └── exports/ # CSVs from Colab for Tableau
-├── notebooks/
-│ └── glp1_market_access_colab.ipynb
-├── tableau/
-│ ├── dashboard_spec.md
-│ └── screenshots/
-├── docs/
-│ └── insights_report_template.md
-├── images/
-│ ├── wegovy_prices.png
-│ └── ozempic_affordability.png
-└── README.md
 
 ## Workflow
 1. **Excel**: Input data (prices, reimbursement, GDP).  
